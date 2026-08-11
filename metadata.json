@@ -1,0 +1,6 @@
+{
+  "name": "O3BR Presentation Book",
+  "description": "Book de apresentação interativo do Ecossistema O3BR com narração em Português do Brasil, telas interativas, rede neural e pitches para GDG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
